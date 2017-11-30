@@ -1,3 +1,7 @@
 git init
 git add file
 git commit -m
+git push -u origin master
+git log
+git reflog
+git reset --hard xxxxx/HEAD^
